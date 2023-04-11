@@ -4,7 +4,7 @@ from telegram.ext import Dispatcher, Updater, MessageHandler, CommandHandler, Fi
 import os
 import telegram
 from handlers import start, echo, help
-TOKEN = "5661659754:AAGS37bnekJLOCeHHvmh2KdIOo8uNZG_kyM"
+TOKEN = "6230194025:AAHTAoiyAjenRfBPEJ8fqcH2ssGZ9cIV5gs"
 
 bot = telegram.Bot(TOKEN)
 
